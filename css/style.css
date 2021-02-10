@@ -338,6 +338,12 @@ nav .enlaces a:hover {
     margin-bottom: var(--espacios-contenido);
 }
 
+.cont-work  a{
+    color: var(--color2);
+    text-decoration: none;
+    font-weight: 700;
+}
+
 .img-work {
     height: 90%;
     width: 100%;
